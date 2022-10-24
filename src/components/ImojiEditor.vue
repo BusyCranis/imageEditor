@@ -268,7 +268,7 @@ export default {
     photoEditLabel: {
       type: String,
       required: false,
-      default: 'Photo'
+      default: 'Edit Photo'
     },
     stickerEditLabel: {
       type: String,
