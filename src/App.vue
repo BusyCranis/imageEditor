@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <imoji-editor />
 </template>
@@ -7,8 +8,8 @@ import ImojiEditor from '@/components/ImojiEditor.vue';
 
 export default {
   components: {
-    'imoji-editor': ImojiEditor
-  }
+    'imoji-editor': ImojiEditor ////
+  } ///
 };
 </script>
 
